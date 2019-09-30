@@ -15,9 +15,9 @@
 - [ ] [动词不定式](basic/verb-infinitive.md)  
 
 ## 中级
-  
+
 - [ ] [复合句](intermediate/complex-sentence.md)  
-- [ ]  [名词从句](intermediate/noun-clause.md)  
+- [x]  [名词从句](intermediate/noun-clause.md)  
 - [ ] [状语从句](intermediate/adverbial-clause.md)  
 - [ ] [关系从句](intermediate/relative-clause.md)  
 - [ ] [主谓一致](intermediate/subject-verb-concord.md)  

@@ -17,7 +17,7 @@
 ## 中级
   
 - [ ] [复合句](docs/intermediate/complex-sentence.md)  
-- [ ]  [名词从句](docs/intermediate/noun-clause.md)  
+- [x] [名词从句](docs/intermediate/noun-clause.md)  
 - [ ] [状语从句](docs/intermediate/adverbial-clause.md)  
 - [ ] [关系从句](docs/intermediate/relative-clause.md)  
 - [ ] [主谓一致](docs/intermediate/subject-verb-concord.md)  
