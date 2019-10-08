@@ -115,3 +115,4 @@ I am afraid当中看不出有任何位置可以放这个名词从句,是因为�
 * The treatment will be decided  by whether the tumor is malignant or not.
 
 **whether可以放在介词后面,因为它是which和either合成的词, which是代名词,可以作介词的宾语.**
+
