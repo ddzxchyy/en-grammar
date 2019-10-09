@@ -1,7 +1,7 @@
 # 名词词组
 
-名词词组由三部分组成：**限定符 + 形容词 + 名词**。**在英语中凡是用到名词，一定是也名词词组的方式出现**。
-这三个部分中，形容词是可有可无的，所以形容词的缺失不会影响名词词组的正确性。**限定符部分，如果后面的名词是复数、不可数就可以采用零冠词**（the zero article）。名词部分，只有能清除表达地话也有可能省略。
+名词词组由三部分组成：**限定词 + 形容词 + 名词**。**在英语中凡是用到名词，一定是也名词词组的方式出现**。
+这三个部分中，形容词是可有可无的，所以形容词的缺失不会影响名词词组的正确性。**限定词部分，如果后面的名词是复数、不可数就可以采用零冠词**（the zero article）。名词部分，只有能清除表达地话也有可能省略。
 
 * a good teacher
 * some troublesome students
@@ -19,7 +19,7 @@
 
 #### 具有固定形状的物体
 
-具有固定形状的物体，可以数得出有几个，就是可数名词。用在句子中，可数名词如果是复数，前面的限定符位置可以采用零冠词。如果是单数，则必须有限定符。
+具有固定形状的物体，可以数得出有几个，就是可数名词。用在句子中，可数名词如果是复数，前面的限定词位置可以采用零冠词。如果是单数，则必须有限定词。
 
 
 
@@ -68,7 +68,7 @@
 
 句中的 beers 用复数形，是因为直接用 a beer 表示「一瓶啤酒」、当可数名词使用。
 
-一般的用法，food 是物质名词，可以采用零冠词。但是上句中的名词词组 several essential foods 前面加了表示「几个」的限定符 several、名词 foods 采复数形，这都是把 a food 当「一种食品」解释，所以它就是可数名词。
+一般的用法，food 是物质名词，可以采用零冠词。但是上句中的名词词组 several essential foods 前面加了表示「几个」的限定词 several、名词 foods 采复数形，这都是把 a food 当「一种食品」解释，所以它就是可数名词。
 
 !>  **许多不可数的物质名词，如果当「种类」解释时都可以当可数名词使用。**
 
@@ -122,11 +122,11 @@
 - I used to live in London.
 - I’d like to invite the Armstrongs over for dinner.
 
-专有名词因为只代表单一的一个对象，不须要限定范围就已经很清楚了，所以前面不加限定符。
+专有名词因为只代表单一的一个对象，不须要限定范围就已经很清楚了，所以前面不加限定词。
 
 如果有两个人以上共享一个名字，那么这个名字就不再是专有名词、变成可数名词了。
 
-人名 Armstrong 虽然是专有名词，但是这一家子都用这个名字，所以可以有复数、前面也可以加限定符 the。
+人名 Armstrong 虽然是专有名词，但是这一家子都用这个名字，所以可以有复数、前面也可以加限定词 the。
 
 
 
@@ -198,20 +198,19 @@
 
 ## 名词词组的省略
 
-在词词组「限定符 + 形容词 + 名词」这三个部分当中，每个部分都有可能从缺。例如在 a good teacher 这个名词词组中，即使拿掉形容词 good，只剩下 a teacher，这个名词片语还是正确的。甚至，在 the smartest kid 这个名词词组中，如果拿掉最重要的名词 kid，只剩下 the smartest，也一样是正确的，例如：
+在词词组「限定词 + 形容词 + 名词」这三个部分当中，每个部分都有可能从缺。例如在 a good teacher 这个名词词组中，即使拿掉形容词 good，只剩下 a teacher，这个名词片语还是正确的。甚至，在 the smartest kid 这个名词词组中，如果拿掉最重要的名词 kid，只剩下 the smartest，也一样是正确的，例如：
 
 - Of all the kids in my class, Jack is the smartest.
 
 读者可以从上下文中清楚了解 the smartest 就是 the smartest kid 的省略。
 
-还可以把形容词和名词一起都拿掉，只剩下限定符 ，仍然是正确的名词词组。比如说，你指着一堆苹果对老板说：
+还可以把形容词和名词一起都拿掉，只剩下限定词 ，仍然是正确的名词词组。比如说，你指着一堆苹果对老板说：
 
 - I want these. 
 
 老板也会知道你要的是什么。这时候，these 取代了后面的名词、升格成为代词。
 
-!> 词词组的三个位置之中，只有限定符位置不能省略。如果看到名词词组的限定符位
-置从缺，那么这个名词词组就是采用了零冠词、必须符合零冠词的条件。
+!> 词词组的三个位置之中，只有限定词位置不能省略。如果看到名词词组的限定词位置从缺，那么这个名词词组就是采用了零冠词、必须符合零冠词的条件。**如果只有限定词了，这时候如 these，those 会生格为代词**。
 
 
 
@@ -225,3 +224,132 @@
 复数动词如 are。但是只要花点脑筋想想，很容易可以看出来：在名词词组的三个部分（限
 定词 + 形容词 + 名词）当中，the rich 这个名词词组只具有前面两个部分，第三个部分（名
 词）则被省略掉了（people）。
+
+- The new is not always better than the old. 
+- The unknown is often feared..
+
+如果套用语法规则，那么 the new 和 the unknown 都符合「the + 形容词」的构造，但是都不能解释为复数名词，而应该是单数。为什么？因为从意思上很容易判断出来：这两个名词词组省略掉的部分不再是 people，而是 thing。
+
+
+
+## 限定词
+
+限定词的分类，依其性质可以分成限制性（definite）限定词如 the, those, John’s、以及非限制性（indefinite）限定词如 a, some, fifty。
+
+若依其限定范围来划分，可以分成部分性（partitive）限定词如 some、以及全称性（universal）限定词如 all。
+
+与英语写作比较密切相关的一种分类是以限定词在名词词组中出现的位置来划分：可以分成前位限定词（predeterminers）、中位限定词（central determiners）以及后位限定词（postdeterminers）。
+
+先看看下面几个例子：
+
+
+
+| 前位 | 中位  | 后位   | 形容词    | 名词      |
+| ---- | ----- | ------ | --------- | --------- |
+| all  | these | many   | brave     | soldiers  |
+| half | your  | twenty | expensive | houses    |
+| both | the   | first  | heroic    | explorers |
+
+
+
+### 前位限定词
+
+在限定词中排第一顺位的称为前位限定词。与中位限定词共同使用时，前位限定词一定要放在前面。包括 all, both, half, one-third, one-fifth, double, twice, three times, such 等等都属于前位限定词。例如：
+
+
+
+| 前位      | 中位  | 名词    |
+| --------- | ----- | ------- |
+| all       | the   | girls   |
+| both      | those | cars    |
+| half      | an    | hour    |
+| double    | the   | sum     |
+| twice     | my    | salary  |
+| one-third | the   | time    |
+| such      | a     | supirse |
+
+
+
+### 后位限定词
+
+后位限定词包括所有的数目字（three, 200）、序数（first, second, 300 th , last），以及表示「多、少」的many, much, little, few 等等。例如：
+
+
+
+| 中位  | 后位    | 名词         |
+| ----- | ------- | ------------ |
+| my    | three   | children     |
+| the   | seventh | day          |
+| the   | last    | month        |
+| a     | few     | people       |
+| those | many    | difficulties |
+
+
+
+### 中位限定词
+
+限定词当中出现频率最高的是中位限定词，包括冠词（a, an, the 以及零冠词）、指示限定词（this, that, these, those）、不定限定词（some, any, either）、否定限定词（no, neither）、全称限定词（every, each）与所有格（my, your, John’s）等等都属于中位限定词。例如：
+
+
+
+| 中位    | 名词     |
+| ------- | -------- |
+| a       | book     |
+| an      | egg      |
+| the     | money    |
+| this    | question |
+| that    | man      |
+| these   | kids     |
+| those   | places   |
+| some    | time     |
+| any     | trouble  |
+| either  | bank     |
+| no      | problem  |
+| neither | boy      |
+| every   | student  |
+| each    | worker   |
+| my      | home     |
+| your    | car      |
+| John's  | daughter |
+
+
+
+!> 前位限定词、中位限定词与后位限定词可以共同出现在一个名词词组中，只要顺序别搞错。例如：all(前) my(中) many(后) friends。但是，如果同样属于中位限定词，那么彼此之间具有排他性，也就是只能采用一个。例如： these some boy （误），any my car （误）
+
+
+
+##  冠词
+
+### 不定冠词
+
+a 或 an 就是 one 的弱化结果。可以用 one 的地方（可以说「一个」什么东西）才可以用 a 或 an。反之，如果不能用 one，就可以把限定词位置空下来（称为零冠词）。
+
+- Unmarried men are arare species these day.
+
+men 一词清楚表示名词是复数，自然不能用 an 来表示一个，这时就可以把限定词空下来。
+
+
+
+### 零冠词
+
+
+
+语法学家创造出零冠词（the zero article）这个观念，主要是为了便于诠释名词词组，同时也可以提醒使用者在写名词词组的时候不要忘了加限定符。
+
+
+
+#### 零冠词的适用范围
+
+- 复数名词
+
+- 抽象名词
+
+- 物质名词
+
+这些不能以 a 或 an 来限定的名词就可以把限定符位置空下来、采用零冠词。
+
+- Bravery is a necessary quality in a soldier.
+
+这个句子的主语 bravery 虽然只有一个字，仍然要称为「名词词组」，因为它是「零冠词加名词」的构造。
+
+!>  像 soldier 这个名词如果单独出现就是个错误，因为它是个单数的可数名词、是可以加 one 在前面的东西。如果单数可数名词前面限定符的位置少掉了，光是 soldier，没有做任何单、复数的表示，并不能构成一个正确的名词词组。
