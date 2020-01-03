@@ -19,7 +19,7 @@ who is tall, rich, and well-educated 就是一个定语从句。who 仍然具有
 
 - I know that I am right.
 - I know this because I have proof.
-- I don't trust people who talk too muck.
+- I don't trust people who talk too much.
 
 > 定语从句的连接词是从句中的词改写的，而名词从句与状语从句的连接词是外加的
 
@@ -51,7 +51,7 @@ who is tall, rich, and well-educated 就是一个定语从句。who 仍然具有
 
 不具有指示功能的定语从句就只是个可有可无的补充说明。就算定语从句的内容改变了（高中同学变成老同事），但是先行词的对象并不会变：Jack 王还是 Jack 王。
 
-### 何时用that
+### 何时用 that
 
 定语从句具有强烈的指示功能：
 
@@ -91,13 +91,19 @@ who is tall, rich, and well-educated 就是一个定语从句。who 仍然具有
 宾语补语（behind）和宾语（a man）之间却隔了一个长长的从句，造成主要从句的句型不清楚：读者很可能会误以为 behind 是属于关系从句的一部分、用来修饰 my family 的。为了避免这种误解、增加句子的清楚性，应该选择把关系从句移到后面。
 
 - I found a book in the library.
+
 - The book focuses on social relations.
 
-- I found a book [which focuses on social relations] in the library. （不佳）
-- I found a book in the library [which focuses on social relations]. （不佳）
-- In the library I found a book [which focuses on social relations].
 
+1. I found a book [which focuses on social relations] in the library. （不佳）
 
+2. I found a book in the library [which focuses on social relations]. （不佳）
+
+3. In the library I found a book [which focuses on social relations].
+
+1这个句子不好，是因为句尾的介词词组 in the library 本来是修饰主要从句动词 found的，但是中间插入关系从句之后，变成也可以修饰更接近的对象 social relations。
+
+2这个句子不好，是关系代词 which 和先行词 a book 中间多了另一个可能的先行词 the library，所以看起来 which 的先行词也极有可能是 library。如果是 library 当先行词，这个句子的意思就变成：「我在那个以社交关系为主要内容的图书馆内找到一本书」。所以这个句子仍然有两种可能的解释、结果仍然是不清楚。
 
 ## 关系副词
 
@@ -134,7 +140,7 @@ who is tall, rich, and well-educated 就是一个定语从句。who 仍然具有
 下面这组句子又有不同的变化：
 
 - I need some time.
-- I cam be with my daughter then.
+- I can be with my daughter then.
 
 some time 虽然没有内容，又重复，但是它属于名词类，省略之后，及物动词 need 没有宾语，就是错误的句子。
 
@@ -180,4 +186,14 @@ why I called 应视为 Why did I call ? 改造而来的名词从句。
 - Shakespeare was born in 1564, when Queen Elizabeth Ⅰ was on the throne.
 
 因为先行词 1564 是一个明确的年代，不是模糊的时间（像 a time 等），所以只能补充说明哪一年有什么特别的事情， 而不是进一步指出时间。这种性质的先行词，要用非限制定语从句。
+
+
+
+
+
+## 自我总结
+
+因为二句句子有重复的元素，所以可以把从句做定语来修饰主句重复的地方。被修饰的词称为先行词，它一定是名词类。因为要把二句句子连在一起，所以要把从句重复的元素要改写为关系代词或关系副词，使它产生连接词的功能。
+
+如果先行词和从句由逗号分隔，说明从句只是起补充说明的作用、没有指示作用，也就不能用 that 。
 
