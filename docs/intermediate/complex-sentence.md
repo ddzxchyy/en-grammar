@@ -44,6 +44,6 @@ As we sit here in the sun, we can see snow-covered hills.（复合句）
 
 ### 减化从句
 
-减化从句的特殊在于省略掉所有重复与空洞的部分、大力压缩，尽量只留下一个限定从句、获得最精简的修辞效果。
+减化从句的特色在于省略掉所有重复与空洞的部分、大力压缩，尽量只留下一个限定从句、获得最精简的修辞效果。
 
 Sitting here in the sun, we can see snow-covered hills.

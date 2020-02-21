@@ -326,7 +326,7 @@
 
 a 或 an 就是 one 的弱化结果。可以用 one 的地方（可以说「一个」什么东西）才可以用 a 或 an。反之，如果不能用 one，就可以把限定词位置空下来（称为零冠词）。
 
-- Unmarried men are arare species these day.
+- Unmarried men are rare species these day.
 
 men 一词清楚表示名词是复数，自然不能用 an 来表示一个，这时就可以把限定词空下来。
 
