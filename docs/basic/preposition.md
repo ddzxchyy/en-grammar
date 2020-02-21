@@ -38,7 +38,7 @@ The man **turned on** the light.
 
 句一是 S + V 句型,。on the couch 为介词词组，作地点副词，修饰动词 slept 。
 
-句二是 S + V + O 句型。这种时候应该把 turned on 当做一个动词（短语动词 phrasal verbs），后面的 the light 是 动词 turned on  的宾语。 如果把这句当成 S + V , 这句句子就变成了： "这名男子在灯上旋转" 。 这显然解释不通。 而是应该吧 turned on 合在一起当成动词看待，意思是 "打开"。
+句二是 S + V + O 句型。这种时候应该把 turned on 当做一个动词（短语动词 phrasal verbs），后面的 the light 是 动词 turned on  的宾语。 如果把这句子当成 S + V , 它就变成了： "这名男子在灯上旋转" 。 这显然解释不通。 而是应该把 turned on 合在一起当成动词看待，意思是 "打开"。
 
 
 
@@ -56,7 +56,7 @@ It’s only a cold; you’ll get over it soon enough.
 
 
 
-**look into**** 调查，了解
+**look into** 调查，了解
 
 The manager will look into your complaint at once.
 
