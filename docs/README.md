@@ -27,7 +27,7 @@
 - [x]  [名词从句](intermediate/noun-clause.md)  
 - [ ] [状语从句](intermediate/adverbial-clause.md)  
 - [x] [定语从句](intermediate/attributive-clause.md)  
-- [ ] [主谓一致](intermediate/subject-verb-concord.md)  
+- [x] [主谓一致](intermediate/subject-verb-concord.md)  
 
 ## 高级
 

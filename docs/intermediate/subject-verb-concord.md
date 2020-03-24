@@ -71,7 +71,7 @@ but 排除了 a few complete idiots 这部分， 因为动词要视 everyone而�
 
 <code>The eggs, not the hen, (be) stolen.</code>
 
-主语 The eggs, not the hen 里面虽然没有 but，可是意思、动能和 the eggs but not the hen 相同，后面的部分要排除。
+主语 The eggs, not the hen 里面虽然没有 but，可是意思、动词和 the eggs but not the hen 相同，后面的部分要排除。
 
 <code> Not only you but also I (be) at fault.</code>
 
@@ -85,6 +85,184 @@ or 完全没有暗示，所以在用法上是靠近动词的部分。
 
 <code>Neither he nor his firends (be) there at that time.</code>
 
-<code>(Do) he or his firends want to go?</code>
+<code> (Do) he or his firends want to go?</code>
 
 负责交代一致性的助动词靠近前面的 he， 所有要选 he 做主语。
+
+
+
+## 主语中有 every、each、either、neither 等表示“一”的字眼
+
+只要有这些表示“一”的字眼在，后面的名词就得使用单数，作主语时也就得用单数动词配合。
+
+<code> Everybody (be) to report here tomorrow.</code>
+
+<code> Every student (have) several chapters to report on.</code>
+
+<code>Each (have) to make a five-minute speech.</code>
+
+<code>You (have) to make a five-minute speech each.</code>
+
+each 在这里作修饰语，主语是表示你们的 you。
+
+<code>Each of you (be) responsible for half of the job.</code>
+
+这时主语是 Each， 原来的 you 变成介系词 of 的宾语。
+
+
+
+## 主语是关系代名词
+
+关系代名词代表先行词。它本身没有单复数的变化，作主语时完全要看代表的先行词是什么，借以判断一致性。
+
+
+
+<code> I don't trust people who (talk) too much.</code>
+
+关系从句 who (talk) too much 还原成单句就是 They talk too much，其中 they 指的是前面的 people，所以动词等于是由 people 决定。
+
+
+
+<code>He has three options, which (look) equally attractive.</code>
+
+<code>He has three options, which (be) a good thing.</code>
+
+第一个which代表三个选项。第二个which代表一个句子，表示“那件事”。
+
+
+
+<code> It (be) the Johnson boys who (be) here last night</code>
+
+主句的主语是个虚词 it，虽然补语是复数的 the Johnson boys, 可是动词得依主语而定，应用单数形式。后面的 who 从句中主语代表的是先行词 the Johnson boys， 所以动词要用复数。
+
+
+
+## 以单位作主语
+
+度量衡、时间、金钱等单位常以复数形式出现，作主语时却不一定要当复数看。
+
+<code>He makes eighty thousand dollars a year, which (be) a lot of money.</code>
+
+which 代表的是 eighty thousand dollars， 看起来是复数。不过想一想，这并不表示八万个一块钱的概念，而是有八万多的一笔钱，所以要当单数看。
+
+<code>Ten seconds (be) quite a record for the 100-meter dash.</code>
+
+
+
+## 主语后面有介系词短语
+
+一般来说，介系词短语并不能影响主语是单数还是复数，所以在判断一致性时可以不去管它。不过还是有些情况还是需要留意。
+
+### 一般情况
+
+<code>Mrs.Lindsey, together with her sons, (be) on a European tour.</code>
+
+her sons 是介系词 with 的宾语，主语只有 Mrs.Lindsey,  所以虽然意思上是都去了，不过句子主要在交代"这位太太"做了什么，要用单数。
+
+<code>The use of computers in business (be) now almost inevitable.</code>
+
+<code>There (be) a list of things to buy in the handbag.</code>
+
+主语是 list
+
+
+
+### 主语为空的字眼
+
+如果主语是空的，只表达“全部/部分”的概念，看不出是什么东西，这时才要看后面的介系词短语来判断单复数。
+
+<code>All of these (be) Lishan pears.</code>
+
+<code>All of the moeny (have) been spent</code>
+
+<code>All but one of the pears (be) ripe.</code>
+
+主语中有对等连接词 but, 它否定掉后面的one,留下前面的 all 作主语。而all的内容由 of the pears 可看出是复数，所以要用复数动词。
+
+<code>A lot of the pears(be) damaged.
+
+A lot of time(have) been wasted.
+
+Half of the pears still (look) good.
+
+Half of this pear (be) rotten.
+
+Some of the cost (be) in transportation.
+
+None of the pears (be) really good to eat. </code>
+
+none 是 not one, 形状与意思都是单数，可采单数动词。不过它也可算是空的字眼，由后面的复数 of the pears 决定它为复数，所以这个字当主语时，单、复数动词都可以，也都有人用。
+
+
+
+### **a number/the number** **的判断**
+
+the number就是that number，指的是一个数字，所以是单数。a number，“某个数目的……”，则是指若干个可以数得出数目的东西，所以要用复数动词。例如：
+
+<code> The number of people in the demonstration(be) five thousand.</code>
+
+<code> A number of people(have) brought eggs to throw.</code>
+
+
+
+### a pair of
+
+英语里有些东西习惯用a pair of来表示。如果主语是a pair，就是one pair，那么应该是单数。例如：
+
+<code> A pair of pants (be) hanging on the wall.</code>
+
+不过英语里面要用a pair来表示的东西，像 shoes、glasses、trousers、scissors 等等，也可以直接说these shoes 等，这时当然要用复数。
+
+<code>These pants (be) very fancy.</code>
+
+
+
+## 集合名词
+
+集合名词在英语中不多，常见的只有 staff (员工、幕僚）、faculty (教员）、以及 family、police、committee、crew(机员、船员）这几个词。这种词用来表示“一个单位、集团”时要用单数动词，但是不加 -s 而用来表示单位内的“成员”时，要用复数动词。
+
+<code>The committee (be) studying the proposal.</code>
+
+这个句子中的committee解释为委员会这个“会”也通（用单数动词)，解释为会中的“委员们”也通.(用复数动词)。
+
+
+
+ 不过有时候要从意思上作更精确的判断，例如：
+
+<code>The committee (be) five years old.</code>
+
+ 这时把committee解释为委员们似乎不太通——太年轻了。应该是一个“单位”, 有五年历史了。
+
+
+
+<code>The committee (be) mostly Republican politicians.</code>
+
+ 从补语“大多为共和党政客”来看，主语 committee 应解释为“委员们”比较合理，所以要用复数。
+
+
+
+### 一些以S结尾的名词
+
+名词词尾的S不见得是复数，有些反而只能用单数形式，像有些代表学科、疾病的字眼经常是如此。例如：
+
+ <code>Mathematics (be) my forte.</code>
+
+<code>Mumps primarily (attack) children.</code>(腮腺炎好发于儿童。）
+
+ 
+
+还有一些要从意思来判断，例如：
+
+<code>Statistics (be) born in the gambling house.</code>
+
+ 主语 statistics 代表“统计学”。
+
+ <code>The statistics (be) not all accurate.</code>
+
+ 这时 statistics 代表一批统计数字（才能说“并非全都正确”)
+
+
+
+ 
+
+**以上所述，大致涵盖了处理一致性的所有重要原则。不过这方面的问题是知易行难。读者一定要多读多写，才能避免错误。**
