@@ -31,3 +31,8 @@
 * 不懂的句子
 
   * [疑难句](example/example.md)
+
+
+* 新概念
+ * [a_private_conversation](newconcept/a_private_conversation.md)
+  

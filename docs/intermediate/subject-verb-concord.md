@@ -85,7 +85,7 @@ or 完全没有暗示，所以在用法上是靠近动词的部分。
 
 <code>Neither he nor his firends (be) there at that time.</code>
 
-<code> (Do) he or his firends want to go?</code>
+<code>(Do) he or his firends want to go?</code>
 
 负责交代一致性的助动词靠近前面的 he， 所有要选 he 做主语。
 
@@ -115,8 +115,6 @@ each 在这里作修饰语，主语是表示你们的 you。
 
 关系代名词代表先行词。它本身没有单复数的变化，作主语时完全要看代表的先行词是什么，借以判断一致性。
 
-
-
 <code> I don't trust people who (talk) too much.</code>
 
 关系从句 who (talk) too much 还原成单句就是 They talk too much，其中 they 指的是前面的 people，所以动词等于是由 people 决定。
@@ -131,13 +129,13 @@ each 在这里作修饰语，主语是表示你们的 you。
 
 
 
-<code> It (be) the Johnson boys who (be) here last night</code>
+<code>It (be) the Johnson boys who (be) here last night</code>
 
 主句的主语是个虚词 it，虽然补语是复数的 the Johnson boys, 可是动词得依主语而定，应用单数形式。后面的 who 从句中主语代表的是先行词 the Johnson boys， 所以动词要用复数。
 
 
 
-## 以单位作主语
+## 以单位作主语 
 
 度量衡、时间、金钱等单位常以复数形式出现，作主语时却不一定要当复数看。
 
@@ -179,9 +177,9 @@ her sons 是介系词 with 的宾语，主语只有 Mrs.Lindsey,  所以虽然�
 
 主语中有对等连接词 but, 它否定掉后面的one,留下前面的 all 作主语。而all的内容由 of the pears 可看出是复数，所以要用复数动词。
 
-<code>A lot of the pears(be) damaged.
+<code>A lot of the pears (be) damaged.
 
-A lot of time(have) been wasted.
+A lot of time (have) been wasted.
 
 Half of the pears still (look) good.
 
@@ -197,7 +195,7 @@ none 是 not one, 形状与意思都是单数，可采单数动词。不过它�
 
 ### **a number/the number** **的判断**
 
-the number就是that number，指的是一个数字，所以是单数。a number，“某个数目的……”，则是指若干个可以数得出数目的东西，所以要用复数动词。例如：
+the numbe r就是 that number，指的是一个数字，所以是单数。a number，“某个数目的……”，则是指若干个可以数得出数目的东西，所以要用复数动词。例如：
 
 <code> The number of people in the demonstration(be) five thousand.</code>
 
@@ -241,7 +239,7 @@ the number就是that number，指的是一个数字，所以是单数。a number
 
 
 
-### 一些以S结尾的名词
+## 一些以S结尾的名词
 
 名词词尾的S不见得是复数，有些反而只能用单数形式，像有些代表学科、疾病的字眼经常是如此。例如：
 
@@ -266,3 +264,9 @@ the number就是that number，指的是一个数字，所以是单数。a number
  
 
 **以上所述，大致涵盖了处理一致性的所有重要原则。不过这方面的问题是知易行难。读者一定要多读多写，才能避免错误。**
+
+
+
+## 总结
+
+判断动词的单复数，先看主语是一个还是二个，如果是二个再看主语是哪一个。如果主语是关系代词，则看它所代表的东西是单数还是复数。如果主语是空的，可以根据介词短语来判断
