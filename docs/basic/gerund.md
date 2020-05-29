@@ -41,6 +41,10 @@ There are two weddings at the restaurant tonight.
 
  <code>I really enjoyed that I taught English to school children at night.</code>
 
+这个宾语从句是如何变成动名词短语的？我们可以从简化 (reduction) 的角度来了解这个问题。
 
+从句中的主语 I 和主要从句的主语 I 相同，所以可以省略，如果再把动词去掉，就可以成功地拆除这个从句，不需要连接词 (that) 了。
+
+从句的动词taught是有意义的动词，不能直接丢掉，但是可以改变成动状词(Verbal)来做词类变化。但是该选择哪一种动状词呢？四种动状词中，只有不定词(to V)与动名词（Ving)可以当做名词使用，来取代名词从句。所以：这个宾语从句，只能够变成为to teach English...或者是 teaching English...。在这两种选择之中。
 
  

@@ -10,13 +10,13 @@
 ## 初级
 
 - [x] [基本句型](basic/base.md)  
-- [ ] [名词词组](basic/noun.md)  
+- [x] [名词词组](basic/noun.md)  
 - [ ] [代词](basic/pronoun.md)  
 - [ ] [形容词](basic/adjective.md)  
 - [ ] [副词](basic/adverb.md)  
-- [ ] [介词](basic/preposition.md)  
+- [x] [介词](basic/preposition.md)  
 - [ ] [分词](basic/participle.md)  
-- [ ] [动词时态](basic/verb-tense.md)  
+- [x] [动词时态](basic/verb-tense.md)  
 - [ ] [语气](basic/moods.md)  
 - [ ] [动名词](basic/gerund.md)  
 - [ ] [动词不定式](basic/verb-infinitive.md)  
