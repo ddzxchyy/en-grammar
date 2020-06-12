@@ -66,3 +66,10 @@ John is the one to go this time.
 
 ### 不定词的主动、被动判断
 
+不定词也有主动与被动之分
+
+ John is not a man  to trust.
+
+ John is not a man to be trusted.
+
+John is not a man who can be trusted.
