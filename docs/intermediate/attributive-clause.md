@@ -4,7 +4,7 @@
 
 定语从句的特点：
 
-1. 两个句子要有交集点，这个交集点在主要从句中称为先行词（antecedent）。先行词一定是名词类。
+1. 两个句子要有交集点，这个交集点在主要从句中称为**先行词**（antecedent）。先行词一定是名词类。
 2. 定语从句的交集点改写成关系词（关系代词，关系副词），让它产生连接词的功能。
 3. 定语从句依附在主句的先行词后面，来修饰它（做形容词使用）。
 
@@ -30,14 +30,14 @@ I don't trust people who talk too much.  定语从句
 
 ## 关系代词
 
-The man (whom) you saw just now is my uncle.  ( you saw him just now)
+The man (whom) you saw just now is my uncle.  ( you saw him just now) 宾语
 
-The man who was here just now is my uncle.
+The man who was here just now is my uncle. 主语
 
-He is not the man (who) he used to be.
+He is not the man (who) he used to be.  补语
 
-!> 关系代词做宾语，因为它要标示定语从句的开始，所以要前移到句首。即使省略它，后面还是有 S + V 的结构，可以和主句区分清楚，因而可以省略。  
-关系代词 who 虽然是补语，但是省略掉它之后两个从句仍然可以区分清楚，所以也可以选择省略 who 。
+> 关系代词做宾语，因为它要标示定语从句的开始，所以要前移到句首。即使省略它，后面还是有 S + V 的结构，可以和主句区分清楚，因而可以省略。  
+> 关系代词 who 虽然是补语，但是省略掉它之后两个从句仍然可以区分清楚，所以也可以选择省略 who 。
 
 ## 指示功能
 
@@ -47,7 +47,7 @@ I met a friend who(that) went to the same high school with me.
 
 I met Jack Wang, who went to the same high school with me.
 
-!> Jack Wang 是人名，属于专有名词。一个专有名词只能对应单一的对象，所以不能说「这个、那个」──因为总共就只有一个。 这是专有名词不能加定冠词 the 的原因。基于同样原因，专有名词当先行词时，后面的关系从句也并不具有指示功能，只是个可有可无的补充说明。
+> Jack Wang 是人名，属于专有名词。一个专有名词只能对应单一的对象，所以不能说「这个、那个」──因为总共就只有一个。 这是专有名词不能加定冠词 the 的原因。基于同样原因，专有名词当先行词时，后面的关系从句也并不具有指示功能，只是个可有可无的补充说明。
 
 I met a friend who(that) worked at the same company with me.
 
@@ -120,8 +120,8 @@ The book focuses on social relations.
 
 关系副词 when 由时间副词 then 改写而来
 
-The rain came at *a time*.
-The farmers needed it most *then.*
+The rain came at  **a time**.
+The farmers needed it most  **then**.
 
 
 
@@ -193,6 +193,8 @@ why I called 应视为 Why did I call ? 改造而来的名词从句。
 
 
 
+
+
 ### 非限制
 
 Shakespeare was born in 1564, when Queen Elizabeth Ⅰ was on the throne.
@@ -201,11 +203,50 @@ Shakespeare was born in 1564, when Queen Elizabeth Ⅰ was on the throne.
 
 
 
+## 复合关系代词
 
+关系代词与先行词重复，有时可以省略关系代词。同样的，也可以省略先行词。如果要省略先行词，要满足一下条件：
+
+1. 首先这个先行词要是空的、没有内容的字眼，像 thing、people 等待空泛的字眼。
+2. 其次，关系从句不能与先行词不能有逗号分隔。因为先行词是名词类属于重要元素，不是可有可无的修饰词，所以一旦省略先行词，在关系词的部分要有所表示。
+
+一旦省略掉先行词，关系代词必须改写为「复合关系代词」来取代它。这时候，关系从句因为兼具形容词子句与先行词两重角色、取代了先行词，所以关系从句会升格为名词从句。
+
+### what
+
+I have the thing.
+
+You need it.
+
+I have what you need.
+
+这时候 what  扮演双重角色：它既是先行词 the thing、又是关系代词，因而称为复合关系代词。它引导的关系从句 what you need 也升格成为名词从句、取代了先行词，直接当 作动词 have 的宾语使用。
+
+
+
+### whoever
+
+I'll shoot any person.
+
+He moves.
+
+I'll shoot whoever moves.
+
+whoever 表示前面省略一个先行词。句型分析可以直接把 whoever moves 看成名词从句，作为 shoot 的宾语。
+
+
+
+### whichever
+
+You can take any car.
+
+You like it.
+
+You can take whichever (car) you like.
 
 ## 自我总结
 
-因为两句句子有重复的元素，所以可以把从句做定语来修饰主句重复的地方。被修饰的词称为先行词，它一定是名词类。因为要把二句句子连在一起，所以要把从句重复的元素要改写为关系代词或关系副词，使它产生连接词的功能。
+因为两句句子有重复的元素，所以可以把从句做定语来修饰主句重复的地方。被修饰的词称为先行词，它一定是名词类。因为要把二句句子连在一起，所以要把从句重复的元素要改写为关系代词或关系副词，使它产生连接词的功能。              
 
 如果先行词和从句由逗号分隔，说明从句只是起补充说明的作用、没有指示作用，也就不能用 that 。
 
