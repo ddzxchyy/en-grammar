@@ -15,7 +15,7 @@
 - [ ] [形容词](basic/adjective.md)  
 - [ ] [副词](basic/adverb.md)  
 - [x] [介词](basic/preposition.md)  
-- [ ] [分词](basic/participle.md)  
+- [x] [分词](basic/participle.md)  
 - [x] [动词时态](basic/verb-tense.md)  
 - [ ] [语气](basic/moods.md)  
 - [ ] [动名词](basic/gerund.md)  
