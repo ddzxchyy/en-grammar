@@ -162,3 +162,31 @@ Yangmingshan is the most crowded of Taibei's scenic spots.
 the most crowded 之后虽然没有名词，可是有介词短语 of Taibei's scenic spots ，因为可以看出是 the most crowded one 的省略，形容词 most crowded 出现于名词短语 the one 的中间。“在台北各风景区之中最拥挤的‘那个’”。在一个特定的范围中指出“最。。。”的一个，有明确的指示功能，因而需要定冠词 the。 这种指示性才是要加定冠词的真正原因。
 
 John is `the shorter` of the twins.
+
+
+
+三、that 和 those 的使用
+
+比较级的句子要求对称工整，包括比较的对象在内。
+
+`May car` is bigger than `you`. （误）
+
+May car is bigger that yours.
+
+用 yours 代替 your car，以避免重复。
+
+Cars made in China are better than those made in Korea.
+
+中国车和韩国车比较，势必要重复一个“车”字，这时对称的要求。可是从修饰的角度来看，要尽量避免重复。在不宜省略，又不宜重复的情况下，就要用代词来取代。可是为什么不用 it/they，而得用 that/those 呢？因为，人称代词 it/they 代表的是先行词。在上例中，如果用 they，代表的就是 cars made in China, 而不能代表 cars made in Korea 。这时只能用限定词 those，表示后面省略了重复的名词 cars 。而 those made in Korea 就是 those cars made in Korea 。
+
+
+
+四、比较级的倒装
+
+比较级一定有重复的部分，因而会有省略，也因此可以倒装。
+
+A chimp `has as much I.Q.` as `a child` of five or six `does` .
+
+这个例子中，用助动词 dose 来取代上文的 has I.Q. 以避免重复。然而， does 放在句尾，和它所代表的的部分有一定的距离。而且，does 和它的主语 a child 之间也隔了一个介词短语 of five or six 。这些距离都会妨碍句子的清楚流畅性。使用倒装就可以避免这些问题。
+
+A chimp has as much I.Q. as does a child of five or six.
